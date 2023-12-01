@@ -7,3 +7,7 @@ Code from mastermind:
 ```python
 print("Hello World")
 ```
+### Output
+![alt tag for screen readers](images/helloWorldProgramScreenshot.png)
+
+[Calculator Program](CalcProgram.md)
